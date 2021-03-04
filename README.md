@@ -1,3 +1,3 @@
 # Hello-world
 Uczę się
-Nie piszę kody bo to tutorial.
+Nie piszę kodubo to tutorial.
